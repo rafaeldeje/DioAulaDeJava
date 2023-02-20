@@ -1,4 +1,7 @@
-public class aula2 {
+package AnatomiaDeClasses;
+
+public class NomeeSobrenome {
+//aula2
 
 public static void main (String [] args){
     String primeiroNome = "Rafael";
