@@ -1,5 +1,6 @@
 package Introdução;
 
+
 import java.util.Scanner;
 
 public class InforNum {
